@@ -270,7 +270,7 @@ int main() {
 			fin >> v[i];
 		}
 
-		fout << "N = " << n << "& MAX = " << MAX << '\n';
+		fout << "N = " << n << " & MAX = " << MAX << '\n';
 
 		BubbleSort(n, MAX, v);
 		CountSort(n, MAX, v);
