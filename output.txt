@@ -1,0 +1,96 @@
+N = 1000 & MAX = 1000
+BubbleSort duration: 88 ms.
+CountSort duration: 0 ms.
+RadixSort duration: 1 ms.
+MergeSort duration: 11 ms.
+QuickSort duration: 12 ms.
+StlSort duration: 1 ms.
+
+N = 1000 & MAX = 1000000
+BubbleSort duration: 71 ms.
+CountSort duration: 117 ms.
+RadixSort duration: 0 ms.
+MergeSort duration: 7 ms.
+QuickSort duration: 14 ms.
+StlSort duration: 1 ms.
+
+N = 1000 & MAX = 1000000000
+BubbleSort duration: 83 ms.
+MAX = 1000000000 is too big for CountSort.
+RadixSort duration: 1 ms.
+MergeSort duration: 8 ms.
+QuickSort duration: 12 ms.
+StlSort duration: 1 ms.
+
+N = 10000 & MAX = 1000
+BubbleSort duration: 6789 ms.
+CountSort duration: 1 ms.
+RadixSort duration: 8 ms.
+MergeSort duration: 90 ms.
+QuickSort duration: 67 ms.
+StlSort duration: 11 ms.
+
+N = 10000 & MAX = 1000000
+BubbleSort duration: 6654 ms.
+CountSort duration: 123 ms.
+RadixSort duration: 9 ms.
+MergeSort duration: 94 ms.
+QuickSort duration: 146 ms.
+StlSort duration: 15 ms.
+
+N = 10000 & MAX = 1000000000
+BubbleSort duration: 6574 ms.
+MAX = 1000000000 is too big for CountSort.
+RadixSort duration: 8 ms.
+MergeSort duration: 87 ms.
+QuickSort duration: 140 ms.
+StlSort duration: 15 ms.
+
+N = 100000 & MAX = 1000
+N = 100000 is too big for BubbleSort.
+CountSort duration: 15 ms.
+RadixSort duration: 86 ms.
+MergeSort duration: 1019 ms.
+QuickSort duration: 586 ms.
+StlSort duration: 107 ms.
+
+N = 100000 & MAX = 1000000
+N = 100000 is too big for BubbleSort.
+CountSort duration: 134 ms.
+RadixSort duration: 88 ms.
+MergeSort duration: 1039 ms.
+QuickSort duration: 1518 ms.
+StlSort duration: 188 ms.
+
+N = 100000 & MAX = 1000000000
+N = 100000 is too big for BubbleSort.
+MAX = 1000000000 is too big for CountSort.
+RadixSort duration: 85 ms.
+MergeSort duration: 1016 ms.
+QuickSort duration: 1608 ms.
+StlSort duration: 192 ms.
+
+N = 1000000 & MAX = 1000
+N = 1000000 is too big for BubbleSort.
+CountSort duration: 166 ms.
+RadixSort duration: 879 ms.
+MergeSort duration: 11301 ms.
+QuickSort duration: 5577 ms.
+StlSort duration: 1042 ms.
+
+N = 1000000 & MAX = 1000000
+N = 1000000 is too big for BubbleSort.
+CountSort duration: 302 ms.
+RadixSort duration: 880 ms.
+MergeSort duration: 12418 ms.
+QuickSort duration: 17840 ms.
+StlSort duration: 2348 ms.
+
+N = 1000000 & MAX = 1000000000
+N = 1000000 is too big for BubbleSort.
+MAX = 1000000000 is too big for CountSort.
+RadixSort duration: 978 ms.
+MergeSort duration: 12554 ms.
+QuickSort duration: 18954 ms.
+StlSort duration: 2597 ms.
+
